@@ -1,0 +1,17 @@
+{
+  "name": "1312663-hw01",
+  "version": "1.0.0",
+  "description": "hw01 quan ly sinh vien",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nmtuan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.0"
+  }
+}
